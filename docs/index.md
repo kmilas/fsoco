@@ -53,6 +53,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | TUfast Racing Team | Color Images | Darknet YOLO Format | 783 | 13080 |
 | Scuderia Mensa  |  Color Images |  Darknet YOLO Format | 600 | 3423 |
 | FaSTDa Racing | Color Images | Darknet YOLO Format | 600 | 5864 |
+| Centaurus Racing Team | Color Images | Darknet YOLO Format | 638 | 11120 |
 |...|...|...|...|...|
 
 ### Annotation Types
