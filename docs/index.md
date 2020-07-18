@@ -338,6 +338,11 @@ More information can be found [here](http://labelme.csail.mit.edu/Release3.0/)
 
 <a href="https://fastda-racing.de/"><img src="./img/FaSTDa.png" alt="FaSTDa" width="400"/></a>
 
+* [Centaurus Racing Team](https://centaurusracing.gr/)
+
+<a href="https://centaurusracing.gr/"><img src="./img/crt_logo.png" alt="CRT" width="400"/></a>
+
+
 *...
 
 ## Why?
